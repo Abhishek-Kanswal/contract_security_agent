@@ -1,0 +1,9 @@
+anyio
+fastapi
+uvicorn
+requests
+python-dotenv
+pycoingecko
+pydantic
+sentient-agent-framework
+langchain-core
