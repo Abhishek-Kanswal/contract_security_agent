@@ -1,6 +1,6 @@
 # On-Chain Security Agent 🔐
 
-A production-ready smart contract security scanner that aggregates data from multiple blockchain security providers and generates AI-powered risk assessments in real-time.
+A smart contract security scanner built on Sentient Agent Framework that provides AI-powered risk assessments across multiple blockchains..
 
 ## 🌟 Features
 
